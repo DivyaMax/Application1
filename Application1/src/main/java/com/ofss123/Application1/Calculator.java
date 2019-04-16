@@ -4,6 +4,7 @@ public class Calculator {
 
 	
 	public int add(int a,int b) {
+		System.out.println("Adding line in add function");
 		return a+b;
 	}
 	
